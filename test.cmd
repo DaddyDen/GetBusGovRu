@@ -1,0 +1,1 @@
+c:\OSPanel\modules\php\PHP-7.1-x64\php.exe -f "d:\YandexDisk\‘\GetBusGovRu\test.php"
